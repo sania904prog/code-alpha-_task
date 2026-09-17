@@ -1,2 +1,2 @@
-# code-alpha-_task
+# codealpha_task
 My code alpha frontend task 
